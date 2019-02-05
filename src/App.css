@@ -30,3 +30,8 @@
     transform: rotate(360deg);
   }
 }
+
+.fa-heart,
+.fa-heart-o {
+  cursor: pointer;
+}
